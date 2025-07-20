@@ -7,7 +7,7 @@
 
 **Desafío:** OverTheWire - Bandit
 **Objetivo:** Alcanzar el Nivel 5
-**Fecha Límite:** Domingo, 27 de julio de 2025 (23:59 UTC)
+**Fecha Límite:** Domingo, 27 de julio de 2025 (GMT-3)
 
 ---
 

@@ -5,9 +5,9 @@
 
 ## 🎯 Desafío Actual
 
-**Desafío:** OverTheWire - Bandit
-**Objetivo:** Alcanzar el Nivel 5
-**Fecha Límite:** Domingo, 27 de julio de 2025 (GMT-3)
+**Desafío:** OverTheWire - Bandit <br>
+**Objetivo:** Alcanzar el Nivel 5 <br>
+**Fecha Límite:** Domingo, 27 de julio de 2025 (GMT-3) <br>
 
 ---
 

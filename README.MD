@@ -16,6 +16,7 @@
 | Nombre de Usuario / Alias | Cuenta de Telegram | Nivel Alcanzado | Fecha de Completado | Notas |
 |------------------|------------------|----------------|-----------------|-------|
 | mjacker | @mjacker | Nivel 5 | 20/07/2025 | ¡Primero en terminar! 🚀 |
+| darks00ul | @Edu | Nivel 10 | 22/07/2025 | ¡Octavio hecha el asado! |
 | <tu nombre aquí> | @tuusuario | | | |
 
 > ✅ **¿Quieres aparecer aquí?** Dale "Fork" a este repositorio, edita la tabla anterior en una solicitud de extracción (PR) y ¡la fusionaremos! 🎉

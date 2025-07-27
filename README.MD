@@ -18,6 +18,7 @@
 | mjacker | @mjacker | Nivel 5 | 20/07/2025 | ¡Primero en terminar! 🚀 |
 | darks00ul | @Edu | Nivel 10 | 22/07/2025 | ¡Octavio hecha el asado! |
 | Saint | @Saint | Nivel 5 | 24/07/2025 | ¡Edu vos tambien jaja! |
+| p01ss0nd4t | @p01ss0nd4t | Nivel  | 27/07/2025 | ¡Que empiece el juego |
 | <tu nombre aquí> | @tuusuario | | | |
 
 > ✅ **¿Quieres aparecer aquí?** Dale "Fork" a este repositorio, edita la tabla anterior en una solicitud de extracción (PR) y ¡la fusionaremos! 🎉
